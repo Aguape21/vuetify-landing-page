@@ -1,5 +1,6 @@
 import Vue from 'vue';
-import Vuetify from 'vuetify/lib';
+import Vuetify from 'vuetify'
+
 
 Vue.use(Vuetify);
 
@@ -8,8 +9,8 @@ export default new Vuetify({
         themes: {
             light: {
                 primary: "#119DA4",
-                secondary: "#171b34",
-                accent: "3D87E4"
+                secondary: "#688c00",
+                accent: "#3D87E4"
             }
         }
     }
