@@ -1,3 +1,13 @@
+Comandos.
+
+    Primeira execução:
+        npm i
+    
+    Rodar o servidor:
+        npm run serve
+
+
+
 # Vuetify Landing Page Template
 
 #### This is an example of a landing page built with vue and vuetify.
